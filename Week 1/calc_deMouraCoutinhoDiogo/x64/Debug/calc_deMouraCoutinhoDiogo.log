@@ -1,2 +1,4 @@
 ﻿  calc_deMouraCoutinhoDiogo.cpp
+C:\Users\diogo\Documents\GitHub\Programing 3\Week 1\calc_deMouraCoutinhoDiogo\calc_deMouraCoutinhoDiogo.cpp(122,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\diogo\Documents\GitHub\Programing 3\Week 1\calc_deMouraCoutinhoDiogo\calc_deMouraCoutinhoDiogo.cpp(122,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   calc_deMouraCoutinhoDiogo.vcxproj -> C:\Users\diogo\Documents\GitHub\Programing 3\Week 1\calc_deMouraCoutinhoDiogo\x64\Debug\calc_deMouraCoutinhoDiogo.exe
