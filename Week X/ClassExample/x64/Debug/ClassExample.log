@@ -1,0 +1,6 @@
+﻿  ClassExample.cpp
+C:\Users\diogo\Documents\GitHub\Programing-3\Week X\ClassExample\ClassExample.cpp(61,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\diogo\Documents\GitHub\Programing-3\Week X\ClassExample\ClassExample.cpp(72,12): error C2819: type 'std::vector<int,std::allocator<int>>' does not have an overloaded member 'operator ->'
+C:\Users\diogo\Documents\GitHub\Programing-3\Week X\ClassExample\ClassExample.cpp(58): message : see declaration of 'std::vector<int,std::allocator<int>>'
+C:\Users\diogo\Documents\GitHub\Programing-3\Week X\ClassExample\ClassExample.cpp(72,12): message : did you intend to use '.' instead?
+C:\Users\diogo\Documents\GitHub\Programing-3\Week X\ClassExample\ClassExample.cpp(72,16): error C2232: '->std::vector<int,std::allocator<int>>::at': left operand has 'class' type, use '.'
